@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Plusieurs Périphériques Lab </string>
+    <string name="question">Vous voulez savoir ce qui va se passer au cours des trois prochains mois?</string>
+    <string name="submit_button">Cliquez sur moi :)</string>
+    <string name="answer">Vous serez un génial développeur Android. Continuez à travailler dur!</string>
+
+</resources>

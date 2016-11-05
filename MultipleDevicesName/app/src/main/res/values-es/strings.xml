@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Múltiples Dispositivos Lab</string>
+    <string name="question">¿Quieres saber qué pasará en los próximos tres meses?</string>
+    <string name="submit_button">Haz click en mi :)</string>
+    <string name="answer">Usted será un desarrollador Android impresionante.
+    Sólo sigue trabajando duro!</string>
+
+
+</resources>
